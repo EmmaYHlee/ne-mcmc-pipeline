@@ -1,6 +1,6 @@
-# selection-ne-mcmc-pipeline
+# NE-MCMC-pipeline
 
-Pipeline for estimating branch-wise effective population size (Ne) from a
+NE stands for population size. NE-MCMC-pipeline is a pipeline for estimating branch-wise effective population size (Ne) from a
 codon alignment and a phylogeny, using BayesCode's mutation-selection MCMC
 model.
 
